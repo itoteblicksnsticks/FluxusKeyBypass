@@ -1,3 +1,5 @@
+// OUTDATED (WORKING BYPASS IN DISCORD.GG/KITTENASSIST)
+
 using HtmlAgilityPack;
 using System;
 using System.Linq;
